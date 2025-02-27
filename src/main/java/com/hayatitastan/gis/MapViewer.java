@@ -22,7 +22,7 @@ public class MapViewer {
     private Map<String, TileFactoryInfo> baseMapOptions;
 
     public void displayMap() {
-        JFrame frame = new JFrame("Free & Open Source Map Viewer (v1.0)");
+        JFrame frame = new JFrame("Free & Open Source Map Viewer (v2.0)");
         mapViewer = new JXMapViewer();
 
         // Load base map options
@@ -42,6 +42,17 @@ public class MapViewer {
             public String getTileUrl(int x, int y, int zoom) {
                 int z = 17 - zoom;
                 return this.baseURL + "/" + z + "/" + x + "/" + y + ".png";
+            }
+        });
+
+        baseMapOptions.put("Satellite", new TileFactoryInfo(1, 15, 17, 256, true, true,
+                "https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}", "x", "y", "z") {
+            @Override
+            public String getTileUrl(int x, int y, int zoom) {
+                int z = 17 - zoom;
+                return this.baseURL.replace("{x}", String.valueOf(x))
+                        .replace("{y}", String.valueOf(y))
+                        .replace("{z}", String.valueOf(z));
             }
         });
 
