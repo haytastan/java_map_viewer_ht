@@ -4,7 +4,53 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d830bf79-836c-43dc-908f-c75ab00ba808" name="Changes" comment="Free &amp; Open Source Map Viewer (v1.0) by Dr. Hayati TAŞTAN" />
+    <list default="true" id="d830bf79-836c-43dc-908f-c75ab00ba808" name="Changes" comment="Free &amp; Open Source Map Viewer (v1.0) by Dr. Hayati TAŞTAN">
+      <change afterPath="$PROJECT_DIR$/javadoc/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/com/hayatitastan/gis/Main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/com/hayatitastan/gis/MapViewer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/com/hayatitastan/gis/MapViewerTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/com/hayatitastan/gis/class-use/Main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/com/hayatitastan/gis/class-use/MapViewer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/com/hayatitastan/gis/class-use/MapViewerTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/com/hayatitastan/gis/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/com/hayatitastan/gis/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/com/hayatitastan/gis/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/copy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/legal/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/legal/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/legal/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/legal/jquery.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/legal/jqueryUI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/link.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/module-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/script-dir/jquery-3.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/script-dir/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/script-dir/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/search-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/tag-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/type-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hayatitastan/gis/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hayatitastan/gis/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hayatitastan/gis/MapViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hayatitastan/gis/MapViewer.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,9 +70,21 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;haytastan&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/haytastan/java_map_viewer_ht.git&quot;,
+    &quot;accountId&quot;: &quot;7557cb32-46e3-44c1-b105-a3432d1c9421&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2tdP9cejq0DXVEPdNAeydQZjGHs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -35,33 +93,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.32068965",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.CeBaSi-HT.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.32068965&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory",
-      "module"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
-    <configuration name="CeBaSi-HT" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="com.hayatitastan.gis.Main" />
-      <module name="gis-application" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="tests" factoryName="Autodetect">
       <module name="CeBaSi" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,6 +154,21 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
+    <configuration name="CeBaSi-HT" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.hayatitastan.gis.Main" />
+      <module name="gis-application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -103,6 +178,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1740678828193</updated>
+      <workItem from="1742651248637" duration="2013000" />
     </task>
     <task id="LOCAL-00001" summary="Free &amp; Open Source Map Viewer (v1.0) by Dr. Hayati TAŞTAN">
       <option name="closed" value="true" />
@@ -123,12 +199,27 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="text">
+                    <value>
+                      <list>
+                        <option value="Created with Intelj Idea 2024.3" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -139,7 +230,8 @@
     <MESSAGE value="Free &amp; Open Source Map Viewer (v-1.0) by Dr. Hayati TAŞTAN" />
     <MESSAGE value="Free &amp; Open Source Map Viewer (v2.0) by Dr. Hayati TAŞTAN" />
     <MESSAGE value="Free &amp; Open Source Map Viewer (v1.0) by Dr. Hayati TAŞTAN" />
-    <option name="LAST_COMMIT_MESSAGE" value="Free &amp; Open Source Map Viewer (v1.0) by Dr. Hayati TAŞTAN" />
+    <MESSAGE value="Version 1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 1.0" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CeBaSi$CeBaSi_HT.ic" NAME="CeBaSi-HT Coverage Results" MODIFIED="1740682368042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
