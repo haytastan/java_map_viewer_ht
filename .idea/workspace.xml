@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d830bf79-836c-43dc-908f-c75ab00ba808" name="Changes" comment="Free &amp; Open Source Map Viewer (v1.0) by Dr. Hayati TAŞTAN">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/grabbed_hand_cursor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/open_hand_cursor.png" afterDir="false" />
-    </list>
+    <list default="true" id="d830bf79-836c-43dc-908f-c75ab00ba808" name="Changes" comment="Free &amp; Open Source Map Viewer (v1.0) by Dr. Hayati TAŞTAN" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -114,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740688120710</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Free &amp; Open Source Map Viewer (v1.0) by Dr. Hayati TAŞTAN">
+      <option name="closed" value="true" />
+      <created>1740688566783</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740688566783</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +137,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Free &amp; Open Source Map Viewer (v-1.0) by Dr. Hayati TAŞTAN" />
+    <MESSAGE value="Free &amp; Open Source Map Viewer (v2.0) by Dr. Hayati TAŞTAN" />
     <MESSAGE value="Free &amp; Open Source Map Viewer (v1.0) by Dr. Hayati TAŞTAN" />
     <option name="LAST_COMMIT_MESSAGE" value="Free &amp; Open Source Map Viewer (v1.0) by Dr. Hayati TAŞTAN" />
   </component>
