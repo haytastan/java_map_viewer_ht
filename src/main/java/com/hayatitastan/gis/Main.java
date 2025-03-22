@@ -6,6 +6,8 @@ package com.hayatitastan.gis;
  *
  * @author Dr. Hayati TAŞTAN
  * @version 1.0
+ * @since 22.03.2025
+ *
  */
 public class Main {
     /**

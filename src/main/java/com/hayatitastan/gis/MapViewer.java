@@ -20,6 +20,7 @@ import java.util.Map;
  * This class is responsible for displaying a map and providing user interactions through mouse events.
  *
  * @author Dr. Hayati TAŞTAN
+ * @since 22.03.2025
  */
 public class MapViewer {
     private Point2D startPoint;

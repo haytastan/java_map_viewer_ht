@@ -4,50 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d830bf79-836c-43dc-908f-c75ab00ba808" name="Changes" comment="Free &amp; Open Source Map Viewer (v1.0) by Dr. Hayati TAŞTAN">
-      <change afterPath="$PROJECT_DIR$/javadoc/allclasses-index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/allpackages-index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/com/hayatitastan/gis/Main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/com/hayatitastan/gis/MapViewer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/com/hayatitastan/gis/MapViewerTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/com/hayatitastan/gis/class-use/Main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/com/hayatitastan/gis/class-use/MapViewer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/com/hayatitastan/gis/class-use/MapViewerTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/com/hayatitastan/gis/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/com/hayatitastan/gis/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/com/hayatitastan/gis/package-use.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/copy.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/element-list" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/help-doc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/legal/ADDITIONAL_LICENSE_INFO" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/legal/ASSEMBLY_EXCEPTION" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/legal/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/legal/jquery.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/legal/jqueryUI.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/link.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/member-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/module-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/overview-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/package-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/resources/glass.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/resources/x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/script-dir/jquery-3.7.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/script-dir/jquery-ui.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/script-dir/jquery-ui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/search-page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/tag-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/type-search-index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d830bf79-836c-43dc-908f-c75ab00ba808" name="Changes" comment="Viewer v1.0">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/hayatitastan/gis/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hayatitastan/gis/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/hayatitastan/gis/MapViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hayatitastan/gis/MapViewer.java" afterDir="false" />
     </list>
@@ -67,7 +24,18 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Hayati TASTAN, PhD in Geospatial IT &lt;haytastan@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -196,7 +164,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740688566783</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Create README.md">
+      <option name="closed" value="true" />
+      <created>1742653685325</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742653685325</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Viewer v1.0">
+      <option name="closed" value="true" />
+      <created>1742653786439</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742653786439</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,9 +213,11 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Free &amp; Open Source Map Viewer (v-1.0) by Dr. Hayati TAŞTAN" />
     <MESSAGE value="Free &amp; Open Source Map Viewer (v2.0) by Dr. Hayati TAŞTAN" />
-    <MESSAGE value="Free &amp; Open Source Map Viewer (v1.0) by Dr. Hayati TAŞTAN" />
     <MESSAGE value="Version 1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Version 1.0" />
+    <MESSAGE value="Free &amp; Open Source Map Viewer (v1.0) by Dr. Hayati TAŞTAN" />
+    <MESSAGE value="Create README.md" />
+    <MESSAGE value="Viewer v1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Viewer v1.0" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CeBaSi$CeBaSi_HT.ic" NAME="CeBaSi-HT Coverage Results" MODIFIED="1740682368042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
